@@ -1,7 +1,7 @@
 # taller_2_godot
 # Descripción del juego y proceso de desarrollo
 #264090-Santiago Morales
-El juego consiste en un escenario donde el jugador controla a un personaje llamado *PurpleWarrior*, el cual puede moverse y atacar utilizando una hitbox para eliminar enemigos. Dentro del nivel se encuentran varios enemigos llamados *RedLancer*, los cuales interactúan con el jugador mediante un sistema de combate básico donde reciben daño y pueden ser eliminados.
+#El juego consiste en un escenario donde el jugador controla a un personaje llamado *PurpleWarrior*, el cual puede moverse y atacar utilizando una hitbox para eliminar enemigos. Dentro del nivel se encuentran varios enemigos llamados *RedLancer*, los cuales interactúan con el jugador mediante un sistema de combate básico donde reciben daño y pueden ser eliminados.
 
 Adicionalmente, se implementó un enemigo especial tipo jefe (*RedLancerBoss*), el cual introduce una mecánica más avanzada. Este enemigo permanece inactivo al inicio y solo se activa cuando los otros enemigos han sido derrotados. Una vez activado, el boss persigue al jugador, posee mayor cantidad de vida y realiza ataques más fuertes con un tiempo de recarga, lo que lo convierte en un desafío más complejo dentro del juego.
 
